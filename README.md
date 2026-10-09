@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi there, I'm Yousef Mohamed Mahmoud 👋
 
-<!--
-**yousefelkady1/yousefelkady1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student | Frontend Web Developer | Flutter Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about building responsive web applications and cross-platform mobile apps. I enjoy learning new technologies, solving problems, and turning ideas into practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Currently learning and improving my skills in Software Engineering.
+-  Interested in Frontend Development and Flutter.
+-  Building practical projects to strengthen my development skills.
+-  Looking for internship opportunities and collaborative projects.
+
+ Tech Stack
+
+Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript
+
+Mobile Development
+
+- Flutter
+- Dart
+
+Tools & Concepts
+
+- Git & GitHub
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- VS Code
+
+ Featured Projects
+
+- Velora Hotel — A responsive hotel website project.
+- Hotel Management System — A project focused on hotel operations and management.
+
+ Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/yousef-mohamed-dev1
+
+--------
+
+⭐ Always learning, building, and improving.
